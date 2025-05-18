@@ -26,4 +26,4 @@ This project involves a comprehensive Machine Learning analysis using Logistic R
 
 ![Bar Chart of ML Model Performance](./ml_images/models.png)
 
-![Ranking of Neural Networks](./ml_images/nueral_network.png)
+![Ranking of Neural Networks](./ml_images/neural_network.png)
